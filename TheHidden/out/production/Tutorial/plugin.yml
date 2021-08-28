@@ -1,0 +1,19 @@
+name: Tutorial
+version: 1.0
+author: Mobius
+main: com.mobius.tutorial.Tutorial
+api-version: 1.17
+commands:
+  heal:
+    description: Heals player to max health
+    usage: /<command>
+    aliases: [healing, healme, healmax]
+
+  feed:
+    description: Feeds player to max health
+    usage: /<command>
+    aliases: [feedme, feednow, pleasefeed]
+
+  farmtime:
+    description: Feeds player to max health
+    usage: /<command>
