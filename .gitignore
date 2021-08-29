@@ -10,7 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# TheHidden.iml #
+*.iml
+
 # Production Output #
+out
+Server
 
 
 # Package Files #
