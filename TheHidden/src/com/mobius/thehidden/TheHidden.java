@@ -10,7 +10,6 @@ public class TheHidden extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // testing the auto-merge feature to see if this works?
         getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "The Hidden Server has been Enabled!");
     }
 
